@@ -1,1 +1,1 @@
-# Reversi
+Boardgame I made with javascript
